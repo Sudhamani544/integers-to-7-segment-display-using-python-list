@@ -1,1 +1,1 @@
-# intergersto7segmentusinglist
+# integersto7segmentusinglist
